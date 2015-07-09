@@ -1,0 +1,2 @@
+'body':
+  'ctrl-7': 'editor:toggle-line-comments'

@@ -1,0 +1,26 @@
+"*":
+  "exception-reporting":
+    userId: "df66ec61-5523-6812-bb28-77d1d54b4930"
+  welcome:
+    showOnStartup: false
+  core:
+    disabledPackages: [
+      "language-java"
+      "language-objective-c"
+      "metrics"
+      "open-on-github"
+    ]
+    themes: [
+      "one-dark-ui"
+      "sunburst"
+    ]
+  editor:
+    invisibles: {}
+    fontSize: 17
+    preferredLineLength: 160
+    scrollPastEnd: true
+    softWrap: true
+  minimap:
+    absoluteMode: true
+  "one-dark-ui":
+    fontSize: 12
