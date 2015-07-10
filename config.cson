@@ -24,3 +24,5 @@
     absoluteMode: true
   "one-dark-ui":
     fontSize: 12
+  "linter-php":
+    phpExecutablePath: "/usr/bin/php"
